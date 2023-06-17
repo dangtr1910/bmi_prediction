@@ -1,4 +1,4 @@
-# Predict BMI values from face images
+# BMI Prediction from Face Images using Face Recognition (MTCNN) and Pre-trained CNN model (VGGFace16)
 
 ## Introduction 
 While in-depth medical examination will give more definite answer to one’s health condition, there are other metrics that can be easily calculated which can also be used as health indicators. One of the most common metrics used is BMI, or Body Mass Index, which is derived from the mass, or weight, and height of a person. Specifically, the BMI is defined as the body mass divided by the square of height, which is expressed in kg/m2 unit. According do World Health Organizations (WHO), there are 5 categories, ranging from underweight to very severely obese. 
